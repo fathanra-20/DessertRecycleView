@@ -55,4 +55,4 @@ app/
 
 ## 📄 Lisensi
 
-Proyek ini dikembangkan untuk tujuan pembelajaran dan demonstrasi sebagai bagian dari tugas pengembangan aplikasi seluler.
+Proyek ini dikembangkan untuk tujuan pembelajaran dan demonstrasi sebagai bagian dari tugas mata kuliah Pengembangan Aplikasi Mobile.
